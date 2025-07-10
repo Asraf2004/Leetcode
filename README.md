@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Asraf2004/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/Asraf2004/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->

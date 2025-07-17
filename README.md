@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Asraf2004/Leetcode/tree/master/0742-to-lower-case) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Asraf2004/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
